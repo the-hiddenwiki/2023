@@ -42,7 +42,7 @@
 
 To access the dark web, download Tor Browser here https://www.torproject.org/download/
 
-Tor is legal in most countries, but certain activities may be illegal depending on your location. The dark web is a part of the internet that can only be accessed with specific software (Like Tor browser or Onion proxy), and includes both legal and illegal sites. Tor is an open-source software that bounces internet traffic through a network of relays to protect user privacy. Hidden services are accessible only within Tor network and can be found through tor link lists or wikis. The idea of onion routing was created in 1995, and Tor was officially deployed in 2002.
+Tor is legal in most countries, but certain activities may be illegal depending on your location. The dark web is a part of the internet that can only be accessed with specific software (Like Tor browser or Onion proxy), and includes both legal and illegal sites. Tor is an open-source software that bounces internet traffic through a network of relays to protect user privacy and increase anonymity. Hidden services are accessible only within Tor network and can be found through tor link lists or wikis.
 
 
 
