@@ -13,6 +13,7 @@
 | Site | URL in TOR (OnionV3 Link) |
 | --- | --- |
 | GiftTo(r) | [giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion](http://giftto33ep564ztvpc6652xt4vkupphghcvtxqwpxi6gq5k2fmjd4zid.onion) |
+| Laptops And Cards - NVIDIA | [nvidialkagnt37uon4hnwkz7xruhlpipeaz6j6zlugqf4mlpdfp6hgqd.onion](http://nvidialkagnt37uon4hnwkz7xruhlpipeaz6j6zlugqf4mlpdfp6hgqd.onion) |
 | Apple World | [applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion](http://applbwku7dfadkfkumiojsbxekuiafpr44idl7bxb2xll6neykvx35id.onion) |
 | MoneYUU | [moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion](http://moneyuu7hga6jpcfbamefsjwkv3bez3b3hkczpfzjb5zneunpqdh2uyd.onion) |
 | Paypal World | [payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion](http://payplb3mm5bdkns6v7xou7xeefcl5bqedofcpnd462rw4gm4xbbwfpad.onion) |
